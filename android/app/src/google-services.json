@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581328365274",
+    "project_id": "manithamapp-c12cb",
+    "storage_bucket": "manithamapp-c12cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581328365274:android:62f62bd131b69f7095e7e3",
+        "android_client_info": {
+          "package_name": "com.example.manithamapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581328365274-fgqhh0f5nemdd8fuu89bjhsjs8rt2dqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBQ8ebQIO43-7l0tjXGeRYJFQjqM3Akdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581328365274-fgqhh0f5nemdd8fuu89bjhsjs8rt2dqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
